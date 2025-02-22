@@ -1,0 +1,6 @@
+.home{
+    background-color: var(--first-gradient);
+}
+.home__container{
+    background-color: var(--primary-color);
+}
