@@ -27,8 +27,8 @@ function Home() {
             </a>
         </div>
         <div className="home__btns">
-            <a href="" className='btn'>Dawnload CV</a>
-            <a href="" className='hero__link'>My skills</a>
+            <a href="" className='btn text-cs'>Dawnload CV</a>
+            <a href="" className='hero__link text-cs'>My skills</a>
         </div>
       </div>
     </section>
