@@ -1,11 +1,17 @@
-import React from 'react'
+import React from 'react';
+import "./services.css"
 
 function Services() {
   return (
     <>
-    <div className="service">
-      
-    </div>
+     <section className='services section' id='services'>
+        <h2 className="section__title text-cs">
+        What I Do
+        </h2>
+        <p className="section__subtitle">
+          My <span>Services</span>
+        </p>
+     </section>
     </>
   )
 }
