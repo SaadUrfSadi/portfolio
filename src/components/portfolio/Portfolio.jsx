@@ -13,6 +13,7 @@ function Portfolio() {
 
   const [projectsItems, setProjectsItems] = useState(projects);
   const [navList, setNavList] = useState(allNavList);
+  console.log(navList)
 
   const filterItems = (category) => {
     if (category === "all") {
